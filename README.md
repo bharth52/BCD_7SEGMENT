@@ -1,2 +1,3 @@
+AIM
 # BCD_7SEGMENT
 ![image](https://github.com/RESMIRNAIR/BCD_7SEGMENT/assets/154305926/804ab8db-8637-45ac-b10f-80e77d818d61)
